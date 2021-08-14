@@ -5,7 +5,9 @@ VisualStudioVersion = 16.0.31424.327
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "estrutura1", "estrutura1\estrutura1.csproj", "{E2644901-86BC-43F6-B3B0-9374F7F9DCA2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "estrutura2", "estrutura2\estrutura2.csproj", "{FC732909-C0F7-42B9-A3B6-57C3916A722D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "estrutura2", "estrutura2\estrutura2.csproj", "{FC732909-C0F7-42B9-A3B6-57C3916A722D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "estrutura3", "estrutura3\estrutura3.csproj", "{34EB23FA-E953-40FA-8B6F-1F9667F97D52}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{FC732909-C0F7-42B9-A3B6-57C3916A722D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FC732909-C0F7-42B9-A3B6-57C3916A722D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FC732909-C0F7-42B9-A3B6-57C3916A722D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34EB23FA-E953-40FA-8B6F-1F9667F97D52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34EB23FA-E953-40FA-8B6F-1F9667F97D52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34EB23FA-E953-40FA-8B6F-1F9667F97D52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34EB23FA-E953-40FA-8B6F-1F9667F97D52}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
